@@ -1,1 +1,3 @@
 # proge
+
+Let's learn some more programming...
